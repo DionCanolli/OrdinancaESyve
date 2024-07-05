@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdinancaESyve", "OrdinancaESyve.csproj", "{6CD8A39D-CA34-42C8-A562-EB07C245DA6B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OrdinancaESyveSetup", "..\OrdinancaESyveSetup\OrdinancaESyveSetup.vdproj", "{09E9A2F8-873E-42CB-891C-F1480351D6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD8A39D-CA34-42C8-A562-EB07C245DA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD8A39D-CA34-42C8-A562-EB07C245DA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD8A39D-CA34-42C8-A562-EB07C245DA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD8A39D-CA34-42C8-A562-EB07C245DA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E9A2F8-873E-42CB-891C-F1480351D6CF}.Debug|Any CPU.ActiveCfg = Debug
+		{09E9A2F8-873E-42CB-891C-F1480351D6CF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC666C8-3F2B-4BDD-B410-C3FD8897EB31}
+	EndGlobalSection
+EndGlobal
